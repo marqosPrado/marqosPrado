@@ -6,9 +6,9 @@ Possuo conhecimentos básicos no frameworkd Django, Flask, linguagem de programa
 
 <div class="icons">
   <img align="center" padding_right="40" alt="Python" height="80" weight="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Django" height="80" weight="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img align="center" alt="Flask" height="80" weight="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-  <img align="center" alt="SQL" height="80" weight="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img align="center" padding_right="40" alt="Django" height="80" weight="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+  <img align="center" padding_right="40" alt="Flask" height="80" weight="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img align="center" padding_right="40" alt="SQL" height="80" weight="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
 <p>   </p>             
 <div>
@@ -16,9 +16,3 @@ Possuo conhecimentos básicos no frameworkd Django, Flask, linguagem de programa
     <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
-<style type="text/css">
-    .icons {
-          align: center;
-  }
-</style>
