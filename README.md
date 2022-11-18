@@ -1,16 +1,18 @@
-### Hi there 👋
+### Eai!👋 Meu nome é Marcos Prado
+## Seja muito Bem-Vindo ao meu perfil !
 
-<!--
-**marqosPrado/marqosPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Sou estudante do 1° semestre do curso de Análise e Desenvolvimento de Sistemas, na FATEC - Mogi das Cruzes, estudando para me tornar futuro desenvolvedor backend.
+Possuo conhecimentos básicos no frameworkd Django, Flask, linguagem de programação Python e banco de dados SQL.
 
-Here are some ideas to get you started:
+<div>
+  <img align="center" alt="Python" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Django" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+  <img align="center" alt="Flask" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img align="center" alt="SQL" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.linkedin.com/in/marcos-pradoo/" target="_blank">
+    <img align="center" alt="Linkedin" src="https://img.shields.io/endpoint?url=https://www.linkedin.com/in/marcos-pradoo/&style=blue">
+  </a>
+</div>
