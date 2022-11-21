@@ -1,4 +1,4 @@
-### Eai!👋 Meu nome é Marcos Prado
+### Olá!👋 Meu nome é Marcos Prado
 ## Seja muito Bem-Vindo ao meu perfil !
 
 - 🌱 Sou estudante do 1° semestre do curso de Análise e Desenvolvimento de Sistemas, na FATEC - Mogi das Cruzes, estudando para me tornar futuro desenvolvedor backend.
